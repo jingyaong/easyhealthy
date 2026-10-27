@@ -31,6 +31,7 @@ workout generation.
 
 | Area | Technologies |
 | --- | --- |
+| Development environment | Android Studio |
 | Framework and language | Flutter, Dart |
 | State management | Provider |
 | Authentication | Firebase Authentication, Google Sign-In |
@@ -61,6 +62,7 @@ the user's preferences and available activities.
 ### Requirements
 
 - Flutter 3.35.4 / Dart 3.9.2 or a compatible version.
+- Android Studio with the Flutter and Dart plugins installed.
 - Android SDK and an emulator or physical device.
 - A Firebase project with Google sign-in and Cloud Firestore enabled.
 - A USDA API key for food search, and an optional Gemini API key for AI workouts.
@@ -112,7 +114,35 @@ Fill in the keys for the integrations you want to use:
 Key registration: [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide/)
 and [Gemini API](https://ai.google.dev/gemini-api/docs/api-key).
 
-### Run the App
+### Run in Android Studio
+
+The project was developed using Android Studio. After completing the Firebase
+and API configuration above:
+
+1. Open the `easyhealthy` project root in Android Studio, where `pubspec.yaml` is
+   located.
+2. Open the built-in Terminal and install dependencies:
+
+   ```powershell
+   flutter pub get
+   ```
+
+3. Start an Android emulator from **Tools > Device Manager**, or connect an
+   Android device with USB debugging enabled. Select it in the device selector.
+4. Open **Run > Edit Configurations**. Select the Flutter configuration for
+   `lib/main.dart`, or create a Flutter configuration with that Dart entrypoint.
+5. Set **Additional run args** to:
+
+   ```text
+   --dart-define-from-file=config/development.local.json
+   ```
+
+6. Apply the configuration and click the green **Run** button to launch the app.
+
+For IDE setup, see the [Flutter Android Studio guide](https://docs.flutter.dev/tools/android-studio).
+
+You can also launch the app from Android Studio's Terminal with the emulator
+running or device connected:
 
 ```powershell
 flutter run --dart-define-from-file=config/development.local.json
@@ -142,7 +172,10 @@ repository.
 
 Activity and habit catalogues are available in `assets/seeds/`.
 
-## Development
+## Code Quality Checks
+
+Run these commands in Android Studio's Terminal to analyze the Dart code and run
+the automated tests:
 
 ```powershell
 flutter analyze
