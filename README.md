@@ -121,12 +121,26 @@ flutter run --dart-define-from-file=config/development.local.json
 The local configuration file is ignored by Git. Dart defines are embedded in the
 compiled app, so use a backend to protect API credentials in a distributed build.
 
-## Sample Data
+## Recipe Dataset
 
-The bundled recipe catalogue contains 12 sample recipes with synthetic nutrition
-values and no recipe photos. It provides data for exploring the meal and recipe
-features; the values are illustrative rather than dietary guidance. Activity and
-habit catalogues are available in `assets/seeds/`.
+The recipe catalogue in `assets/recipes.json` contains **1,021 recipes** from a
+dataset obtained through Kaggle. The records reference BBC Good Food recipes and
+retain their original author names and source URLs.
+
+Each recipe includes:
+
+- A name, description, ingredients, and preparation steps.
+- Nutrition information including calories, protein, carbohydrates, fat, fibre,
+  sugars, saturated fat, and salt.
+- Categories, difficulty, serving count, preparation and cooking times.
+- Ratings, the original recipe URL, and a remotely hosted image URL.
+
+This catalogue powers recipe browsing, favourites, recommendations, and daily
+meal planning. Food search uses the USDA FoodData Central API separately. Recipe
+photos are loaded from the URLs in the dataset rather than stored in this
+repository.
+
+Activity and habit catalogues are available in `assets/seeds/`.
 
 ## Development
 
