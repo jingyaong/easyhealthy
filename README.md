@@ -23,7 +23,7 @@ generation.
   Gemini-assisted workout generation.
 - Progress charts, PDF export, and light/dark themes.
 
-## Technology
+## Tech Stack
 
 Flutter / Dart, Firebase Authentication, Cloud Firestore, Provider, USDA FoodData
 Central, Gemini API, fl_chart, and flutter_local_notifications.
