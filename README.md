@@ -1,12 +1,14 @@
 # EasyHealthy
 
-A Flutter university final-year project combining meal tracking, recipe discovery,
-personalized recipe ranking, activity logging, habits, and workout planning.
+EasyHealthy is a Flutter wellness app that brings meal tracking, recipe discovery,
+activity logging, and habit tracking into one place. Users can log meals, track
+calories and nutrients, save recipes, plan workouts, and view their progress over
+time.
 
-This repository is a public portfolio snapshot of a project developed by **Ng Jing
-Yao and a teammate**. It starts with fresh Git history; that history represents
-publication of this snapshot, not sole authorship of the original application.
-The original shared development repository remains private.
+The app uses Firebase for authentication and data storage, USDA FoodData Central
+for food lookup, and recipe recommendations based on nutrition targets and meal
+history. It also includes daily meal planning and optional AI-assisted workout
+generation.
 
 ## Features
 
