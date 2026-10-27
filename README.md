@@ -1,6 +1,6 @@
 # EasyHealthy
 
-EasyHealthy is a Flutter wellness app that brings meal tracking, recipe discovery,
+EasyHealthy is a diet and fitness tracking app built with Flutter that brings meal tracking, recipe discovery,
 activity logging, and habit tracking into one place. Users can log meals, track
 calories and nutrients, save recipes, plan workouts, and view their progress over
 time.
