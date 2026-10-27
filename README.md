@@ -25,8 +25,18 @@ generation.
 
 ## Tech Stack
 
-Flutter / Dart, Firebase Authentication, Cloud Firestore, Provider, USDA FoodData
-Central, Gemini API, fl_chart, and flutter_local_notifications.
+| Area | Technologies |
+| --- | --- |
+| Framework and language | Flutter, Dart |
+| State management | Provider |
+| Authentication | Firebase Authentication, Google Sign-In |
+| Database | Cloud Firestore |
+| Food and nutrition data | USDA FoodData Central API, `http` |
+| AI-assisted workout planning | Gemini API, `google_generative_ai` |
+| Charts and progress indicators | `fl_chart`, `percent_indicator` |
+| Local notifications and time zones | `flutter_local_notifications`, `flutter_timezone`, `timezone` |
+| PDF generation and printing | `pdf`, `printing` |
+| UI utilities | `google_fonts`, `cached_network_image`, `shimmer` |
 
 ## Public snapshot
 
