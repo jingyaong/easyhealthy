@@ -121,16 +121,19 @@ project.
 
 ## Collaboration and contributions
 
-The application was developed as a two-person academic project. Based on Ng Jing
-Yao's recollection:
+The application was developed as a two-person academic project. Ng Jing Yao's
+primary contributions included:
 
-- His main responsibility was the meal section and meal-related progress views.
-- Progress work was split between meal and activity areas.
-- The home and profile sections were developed collaboratively.
+- Meal tracking, USDA food lookup, and custom food management.
+- Recipe discovery, details, and favourites.
+- Recommendation logic combining nutrition targets with saved and logged recipe
+  history.
+- Daily meal-plan generation and nutrition progress views.
 
-The detailed division of individual features is not fully recalled, so these are
-broad responsibility areas rather than an exact file-by-file ownership record.
-The fresh initial commit does not imply sole authorship of the application.
+The home and profile sections were developed collaboratively. This summary is
+supported by the original development history and his recollection; individual
+commits may include shared work. The public snapshot's fresh Git history does
+not imply sole authorship of the application.
 
 ## Limitations
 
