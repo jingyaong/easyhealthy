@@ -1,0 +1,457 @@
+[
+  {
+    "id": "demo-breakfast-01",
+    "url": "",
+    "image": "",
+    "name": "Oat and apple breakfast bowl",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Rolled oats",
+      "Diced apple",
+      "Plain yogurt"
+    ],
+    "steps": [
+      "Soften oats with warm water.",
+      "Stir in yogurt and finish with diced apple."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Breakfast recipes",
+    "dish_type": "Breakfast recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "350",
+      "protein": "18",
+      "carbs": "52",
+      "fat": "9",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-breakfast-02",
+    "url": "",
+    "image": "",
+    "name": "Egg and spinach toast",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Egg",
+      "Spinach",
+      "Wholegrain bread"
+    ],
+    "steps": [
+      "Cook the egg and spinach in a pan.",
+      "Serve on toasted wholegrain bread."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Breakfast recipes",
+    "dish_type": "Breakfast recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "320",
+      "protein": "20",
+      "carbs": "30",
+      "fat": "13",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-breakfast-03",
+    "url": "",
+    "image": "",
+    "name": "Banana yogurt cup",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Banana",
+      "Plain yogurt",
+      "Rolled oats"
+    ],
+    "steps": [
+      "Spoon yogurt into a bowl.",
+      "Top with sliced banana and oats."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Breakfast recipes",
+    "dish_type": "Breakfast recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "280",
+      "protein": "15",
+      "carbs": "44",
+      "fat": "5",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-lunch-01",
+    "url": "",
+    "image": "",
+    "name": "Chickpea rice bowl",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Chickpeas",
+      "Cooked rice",
+      "Cucumber"
+    ],
+    "steps": [
+      "Warm the chickpeas and rice.",
+      "Add chopped cucumber and mix gently."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Lunch recipes",
+    "dish_type": "Quick lunch recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "480",
+      "protein": "19",
+      "carbs": "72",
+      "fat": "12",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-lunch-02",
+    "url": "",
+    "image": "",
+    "name": "Tofu vegetable wrap",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Tofu",
+      "Wholegrain tortilla",
+      "Shredded carrot"
+    ],
+    "steps": [
+      "Cook the tofu until heated through.",
+      "Wrap the tofu and carrot in the tortilla."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Lunch recipes",
+    "dish_type": "Quick lunch recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "420",
+      "protein": "24",
+      "carbs": "48",
+      "fat": "15",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-lunch-03",
+    "url": "",
+    "image": "",
+    "name": "Lentil tomato soup",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Cooked lentils",
+      "Chopped tomatoes",
+      "Vegetable stock"
+    ],
+    "steps": [
+      "Combine lentils, tomatoes, and stock.",
+      "Simmer until hot and serve."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Lunch recipes",
+    "dish_type": "Quick lunch recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "330",
+      "protein": "21",
+      "carbs": "49",
+      "fat": "6",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-dinner-01",
+    "url": "",
+    "image": "",
+    "name": "Roasted vegetable rice",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Cooked rice",
+      "Zucchini",
+      "Bell pepper"
+    ],
+    "steps": [
+      "Roast the chopped vegetables until tender.",
+      "Mix with warm rice and serve."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Dinner recipes",
+    "dish_type": "Easy dinner recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "450",
+      "protein": "12",
+      "carbs": "76",
+      "fat": "12",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-dinner-02",
+    "url": "",
+    "image": "",
+    "name": "Chicken and potato plate",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Chicken breast",
+      "Potato",
+      "Broccoli"
+    ],
+    "steps": [
+      "Roast the potato and cook the chicken fully.",
+      "Steam the broccoli and serve together."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Dinner recipes",
+    "dish_type": "Chicken recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "520",
+      "protein": "42",
+      "carbs": "52",
+      "fat": "16",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-dinner-03",
+    "url": "",
+    "image": "",
+    "name": "Bean and spinach pasta",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Wholegrain pasta",
+      "Cooked white beans",
+      "Spinach"
+    ],
+    "steps": [
+      "Boil pasta according to its package.",
+      "Heat beans and spinach, then toss with the pasta."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Dinner recipes",
+    "dish_type": "Vegetarian recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "490",
+      "protein": "24",
+      "carbs": "74",
+      "fat": "10",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-snack-01",
+    "url": "",
+    "image": "",
+    "name": "Apple and peanut butter",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Apple",
+      "Peanut butter"
+    ],
+    "steps": [
+      "Slice the apple.",
+      "Serve with a spoonful of peanut butter."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Snacks recipes",
+    "dish_type": "Healthy snack recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "180",
+      "protein": "5",
+      "carbs": "23",
+      "fat": "9",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-snack-02",
+    "url": "",
+    "image": "",
+    "name": "Carrot yogurt dip",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Carrot",
+      "Plain yogurt",
+      "Dried herbs"
+    ],
+    "steps": [
+      "Cut the carrot into sticks.",
+      "Mix yogurt with herbs and serve as a dip."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Snacks recipes",
+    "dish_type": "Healthy snack recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "120",
+      "protein": "8",
+      "carbs": "17",
+      "fat": "3",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  },
+  {
+    "id": "demo-snack-03",
+    "url": "",
+    "image": "",
+    "name": "Berry oat yogurt",
+    "description": "Original demonstration recipe. Nutrition values are synthetic test fixtures, not dietary guidance.",
+    "author": "EasyHealthy demo fixtures",
+    "ratings": 0,
+    "vote_count": 0,
+    "ingredients": [
+      "Mixed berries",
+      "Plain yogurt",
+      "Rolled oats"
+    ],
+    "steps": [
+      "Place yogurt in a small bowl.",
+      "Scatter berries and oats over the top."
+    ],
+    "maincategory": "recipes",
+    "subcategory": "Snacks recipes",
+    "dish_type": "Healthy snack recipes",
+    "serves": 1,
+    "times": {
+      "Preparation": "10 mins",
+      "Cooking": "15 mins"
+    },
+    "difficult": "Easy",
+    "nutrients": {
+      "kcal": "170",
+      "protein": "10",
+      "carbs": "25",
+      "fat": "4",
+      "saturates": "0",
+      "sugars": "0",
+      "fibre": "0",
+      "salt": "0"
+    }
+  }
+]

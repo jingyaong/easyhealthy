@@ -1,0 +1,380 @@
+[
+  {
+    "id": "running",
+    "name": "Running",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 9.8,
+    "description": "Outdoor or treadmill running at moderate to high pace.",
+    "icon": "directions_run"
+  },
+  {
+    "id": "walking",
+    "name": "Walking",
+    "category": "Cardio",
+    "intensity": "Low",
+    "met": 3.3,
+    "description": "Brisk or casual walking, great for daily activity.",
+    "icon": "directions_walk"
+  },
+  {
+    "id": "cycling",
+    "name": "Cycling",
+    "category": "Cardio",
+    "intensity": "Moderate",
+    "met": 7.5,
+    "description": "Outdoor or stationary cycling workout.",
+    "icon": "pedal_bike"
+  },
+  {
+    "id": "swimming",
+    "name": "Swimming",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 8.0,
+    "description": "Freestyle or lap swimming.",
+    "icon": "pool"
+  },
+  {
+    "id": "hiking",
+    "name": "Hiking",
+    "category": "Cardio",
+    "intensity": "Moderate",
+    "met": 6.5,
+    "description": "Outdoor hiking on varied terrain.",
+    "icon": "terrain"
+  },
+  {
+    "id": "jump_rope",
+    "name": "Jump Rope",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 11.0,
+    "description": "Intense cardio skipping session.",
+    "icon": "sports"
+  },
+  {
+    "id": "aerobics_high_impact",
+    "name": "Aerobics (High-Impact)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 7.0,
+    "description": "Vigorous, high-intensity aerobic dance or class.",
+    "icon": "sports_gymnastics"
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 8.0,
+    "description": "Casual or competitive basketball game.",
+    "icon": "sports_basketball"
+  },
+  {
+    "id": "tennis_singles",
+    "name": "Tennis (Singles)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 8.0,
+    "description": "Competitive tennis game, requiring constant running.",
+    "icon": "sports_tennis"
+  },
+  {
+    "id": "golf_walking_carrying_clubs",
+    "name": "Golf (Walking & Carrying Clubs)",
+    "category": "Cardio",
+    "intensity": "Moderate",
+    "met": 4.3,
+    "description": "Walking the course and carrying your own golf clubs.",
+    "icon": "sports_golf"
+  },
+  {
+    "id": "pickleball_singles",
+    "name": "Pickleball (Singles)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 6.0,
+    "description": "Competitive singles pickleball game.",
+    "icon": "sports_tennis"
+  },
+  {
+    "id": "badminton_competitive",
+    "name": "Badminton (Competitive)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 7.0,
+    "description": "Vigorous, competitive badminton game.",
+    "icon": "sports_badminton"
+  },
+  {
+    "id": "soccer",
+    "name": "Soccer (Football)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 7.5,
+    "description": "Recreational or competitive soccer game.",
+    "icon": "sports_soccer"
+  },
+  {
+    "id": "volleyball",
+    "name": "Volleyball",
+    "category": "Cardio",
+    "intensity": "Moderate",
+    "met": 4.0,
+    "description": "Recreational or beach volleyball match.",
+    "icon": "sports_volleyball"
+  },
+  {
+    "id": "table_tennis",
+    "name": "Table Tennis (Ping Pong)",
+    "category": "Cardio",
+    "intensity": "Moderate",
+    "met": 4.5,
+    "description": "Fast-paced table tennis rally or match.",
+    "icon": "sports_tennis"
+  },
+  {
+    "id": "boxing_training",
+    "name": "Boxing (Training)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 9.0,
+    "description": "Boxing drills, bag work, and shadow boxing.",
+    "icon": "sports_mma"
+  },
+  {
+    "id": "martial_arts",
+    "name": "Martial Arts (Mixed)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 10.0,
+    "description": "Karate, taekwondo, or MMA training session.",
+    "icon": "sports_mma"
+  },
+  {
+    "id": "rock_climbing",
+    "name": "Rock Climbing",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 8.0,
+    "description": "Indoor or outdoor climbing using hands and feet.",
+    "icon": "landscape"
+  },
+  {
+    "id": "skiing_downhill",
+    "name": "Skiing (Downhill)",
+    "category": "Cardio",
+    "intensity": "High",
+    "met": 7.0,
+    "description": "Downhill skiing on slopes or trails.",
+    "icon": "downhill_skiing"
+  },
+  {
+    "id": "strength_training",
+    "name": "Strength Training",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 6.0,
+    "description": "Resistance or weight training to build muscle.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "bench_press",
+    "name": "Bench Press",
+    "category": "Strength",
+    "intensity": "High",
+    "met": 6.0,
+    "description": "Weight training for chest, shoulders, and triceps.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "category": "Strength",
+    "intensity": "High",
+    "met": 6.0,
+    "description": "Full-body compound lift, focusing on back, glutes, and hamstrings.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "squats",
+    "name": "Squats",
+    "category": "Strength",
+    "intensity": "High",
+    "met": 6.0,
+    "description": "Compound lift for legs, glutes, and core.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "overhead_press",
+    "name": "Overhead Press",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 4.0,
+    "description": "Weight training for shoulders and triceps.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "bicep_curl",
+    "name": "Bicep Curl",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 3.5,
+    "description": "Isolation exercise for biceps using dumbbells or barbells.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "tricep_dips",
+    "name": "Tricep Dips",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 3.8,
+    "description": "Bodyweight exercise for triceps and shoulders.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 4.0,
+    "description": "Machine-based back exercise targeting lats and biceps.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "category": "Strength",
+    "intensity": "Low",
+    "met": 3.0,
+    "description": "Core stability exercise focusing on abs and back.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "leg_press",
+    "name": "Leg Press",
+    "category": "Strength",
+    "intensity": "High",
+    "met": 5.5,
+    "description": "Machine-based exercise for quads, glutes, and hamstrings.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "lunges",
+    "name": "Lunges",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 4.5,
+    "description": "Leg exercise targeting glutes, hamstrings, and quads.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "crunches",
+    "name": "Crunches",
+    "category": "Strength",
+    "intensity": "Low",
+    "met": 3.0,
+    "description": "Abdominal exercise targeting the core muscles.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "pull_ups",
+    "name": "Pull-Ups",
+    "category": "Strength",
+    "intensity": "High",
+    "met": 5.5,
+    "description": "Bodyweight exercise for back, shoulders, and arms.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "push_ups",
+    "name": "Push-Ups",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 4.0,
+    "description": "Bodyweight exercise for chest, shoulders, and triceps.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "hip_thrust",
+    "name": "Hip Thrust",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 4.5,
+    "description": "Glute and hamstring exercise performed with or without weights.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "side_lateral_raise",
+    "name": "Side Lateral Raise",
+    "category": "Strength",
+    "intensity": "Moderate",
+    "met": 3.8,
+    "description": "Shoulder isolation movement with dumbbells.",
+    "icon": "fitness_center"
+  },
+  {
+    "id": "yoga",
+    "name": "Yoga",
+    "category": "Flexibility",
+    "intensity": "Low",
+    "met": 2.5,
+    "description": "Stretching and breathing exercises to improve flexibility.",
+    "icon": "self_improvement"
+  },
+  {
+    "id": "pilates",
+    "name": "Pilates",
+    "category": "Flexibility",
+    "intensity": "Moderate",
+    "met": 3.5,
+    "description": "Core strengthening and flexibility exercises.",
+    "icon": "accessibility_new"
+  },
+  {
+    "id": "stretching_general",
+    "name": "Stretching (General)",
+    "category": "Flexibility",
+    "intensity": "Low",
+    "met": 2.3,
+    "description": "Basic full-body stretching for mobility and muscle recovery.",
+    "icon": "accessibility"
+  },
+  {
+    "id": "dynamic_stretching",
+    "name": "Dynamic Stretching",
+    "category": "Flexibility",
+    "intensity": "Low",
+    "met": 2.8,
+    "description": "Active stretching involving controlled movements for warm-up.",
+    "icon": "directions_run"
+  },
+  {
+    "id": "foam_rolling",
+    "name": "Foam Rolling (Self-Myofascial Release)",
+    "category": "Flexibility",
+    "intensity": "Low",
+    "met": 2.0,
+    "description": "Muscle recovery and flexibility enhancement using a foam roller.",
+    "icon": "sports_gymnastics"
+  },
+  {
+    "id": "tai_chi",
+    "name": "Tai Chi",
+    "category": "Flexibility",
+    "intensity": "Low",
+    "met": 3.0,
+    "description": "Slow, flowing movements that improve balance, flexibility, and relaxation.",
+    "icon": "self_improvement"
+  },
+  {
+    "id": "mobility_drills",
+    "name": "Mobility Drills",
+    "category": "Flexibility",
+    "intensity": "Moderate",
+    "met": 3.2,
+    "description": "Joint mobility and range-of-motion exercises.",
+    "icon": "accessibility_new"
+  }
+]

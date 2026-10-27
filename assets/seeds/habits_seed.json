@@ -1,0 +1,92 @@
+[
+  {
+    "id": "habit_yoga",
+    "name": "Yoga",
+    "description": "Practice yoga to improve flexibility and reduce stress.",
+    "defaultReminderTime": "06:30",
+    "category": "Fitness",
+    "icon": "🧘",
+    "isDefault": true
+  },
+  {
+    "id": "habit_journal",
+    "name": "Journal",
+    "description": "Write down your thoughts and reflect on your day.",
+    "defaultReminderTime": "21:00",
+    "category": "Mindfulness",
+    "icon": "📓",
+    "isDefault": true
+  },
+  {
+    "id": "habit_fruit_veggies",
+    "name": "Eat Fruits & Veggies",
+    "description": "Include at least 5 servings of fruits and vegetables in your diet.",
+    "defaultReminderTime": "12:30",
+    "category": "Nutrition",
+    "icon": "🥗",
+    "isDefault": true
+  },
+  {
+    "id": "habit_stretch",
+    "name": "Stretch",
+    "description": "Take a few minutes to stretch your body and relieve tension.",
+    "defaultReminderTime": "10:00",
+    "category": "Fitness",
+    "icon": "🤸",
+    "isDefault": true
+  },
+  {
+    "id": "habit_limit_sugar",
+    "name": "Limit Sugar",
+    "description": "Avoid sugary snacks and drinks to improve overall health.",
+    "defaultReminderTime": "15:00",
+    "category": "Nutrition",
+    "icon": "🍬",
+    "isDefault": true
+  },
+  {
+    "id": "habit_gratitude",
+    "name": "Gratitude",
+    "description": "Write down 3 things you are grateful for.",
+    "defaultReminderTime": "08:00",
+    "category": "Mindfulness",
+    "icon": "🙏",
+    "isDefault": true
+  },
+  {
+    "id": "habit_clean_desk",
+    "name": "Clean Desk",
+    "description": "Organize your workspace to improve focus and productivity.",
+    "defaultReminderTime": "17:00",
+    "category": "Personal Growth",
+    "icon": "🧹",
+    "isDefault": true
+  },
+  {
+    "id": "habit_cardio",
+    "name": "Cardio Exercise",
+    "description": "Do at least 20 minutes of cardio to keep your heart healthy.",
+    "defaultReminderTime": "07:30",
+    "category": "Fitness",
+    "icon": "🏃",
+    "isDefault": true
+  },
+  {
+    "id": "habit_limit_screen_time",
+    "name": "Limit Screen Time",
+    "description": "Reduce unnecessary screen time to improve focus and sleep.",
+    "defaultReminderTime": "21:30",
+    "category": "Mindfulness",
+    "icon": "📵",
+    "isDefault": true
+  },
+  {
+    "id": "habit_drink_tea",
+    "name": "Herbal Tea",
+    "description": "Have a calming cup of herbal tea to relax.",
+    "defaultReminderTime": "16:00",
+    "category": "Health",
+    "icon": "🍵",
+    "isDefault": true
+  }
+]
